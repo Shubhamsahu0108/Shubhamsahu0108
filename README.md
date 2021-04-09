@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shubhamsahu0108
 - 👀 I’m interested in Front end development
-- 🌱 I’m currently learning html, css, java script, react
+- 🌱 I’m currently learning c, c++, html, css, java script, react
 - 📫 How to reach me shubhamsahu0108@gmail.com
 
 <!---
